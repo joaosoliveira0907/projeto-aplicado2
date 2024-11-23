@@ -1,4 +1,4 @@
-# projeto-aplicado2
+# Projeto Aplicado
 ## Willians Carvalho da Silva - 10416087
 ## João Pedro Santos Oliveira – 10423752
 ## Cesar Valentim Silva – 10416087
